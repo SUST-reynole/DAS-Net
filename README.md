@@ -1,2 +1,2 @@
-# DAS-Net
-#Dual adversarial self-ensembling network for medical image segmentation
+# AD-Net
+# Semi-supervised medical image segmentation using adversarial consistency learning and dynamic convolution
